@@ -1,2 +1,1 @@
-#!/bin/bash
-Current working directory command
+Listing items in current directory
