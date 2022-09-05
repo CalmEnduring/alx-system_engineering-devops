@@ -1,2 +1,2 @@
 #!/bin/bash
-grep "$str" $/etc/passwd | {grep -v grep | true: }
+grep '^[A-Za-z]' /etc/ssh/sshd_config
