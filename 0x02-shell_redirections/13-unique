@@ -1,2 +1,2 @@
 #!/bin/bash
-cls -l | uniq -u | sort
+ls -l | uniq -u | sort
